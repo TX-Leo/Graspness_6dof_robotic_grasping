@@ -1,0 +1,8 @@
+torch>=1.8.0
+tensorboard==2.3
+numpy
+scipy
+open3d>=0.8
+Pillow
+tqdm
+MinkowskiEngine==0.5.4
